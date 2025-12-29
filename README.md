@@ -187,6 +187,8 @@ python app.py
 
 ## 🧠 About the Creator
 
+DEMO : " https://drive.google.com/file/d/1GmkyCU0HdTKcqvbXvawgK4Rhx-OBEVF6/view?usp=drive_link "
+
 Created by **[kamshetty varun]**, AI/ML Engineer passionate about brain-computer interfaces and creative AI systems.
 
 ---
